@@ -27,5 +27,5 @@ Population growth rate is a strong indicator of economic growth for US states. P
 
 ### __Results and Discussion__
 (1) The results showed US states including Nevada, Idaho, and Arizona were experiencing population growth from year 2011 to 2018, while Puerto Rico, Alaska, Wyoming were experiencing population decline. \
-(2) The industries such as ¡§logistics and supply chain¡¨, ¡§construction¡¨, and ¡§automotive¡¨ are positively correlated with population growth, while ¡§government administration¡¨, ¡§broadcast media¡¨, ¡§restaurant¡¨ are negatively correlated with population growth. \
+(2) The industries such as __logistics and supply chain__, __construction__, and __automotive__ are positively correlated with population growth, while __government administration__, __broadcast media__, __restaurant__ are negatively correlated with population growth. \
 (3) The future direction of this project is to use industrial composition of job posting data to predict population growth for each states.
